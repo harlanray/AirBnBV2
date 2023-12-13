@@ -6,6 +6,7 @@ Quick start:
 $ yarn # npm install
 $ yarn build # npm run build
 ````
+right-click on index.html -> click Open with Live Server
 
 ## Development
 
