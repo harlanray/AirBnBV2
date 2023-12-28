@@ -54,7 +54,7 @@ $ yarn watch # npm run watch
 
 ## Versioning [work in progress]
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/shodo-proto/releases).
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/AirBnBV2/releases).
 
 ## Authors
 
@@ -63,10 +63,9 @@ We use [Semantic Versioning](http://semver.org/) for versioning. For the version
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details.
+N/A
 
 ## Acknowledgments
 
   - Based on the [Scrimba](https://scrimba.com/learn/learnreact/section-intro-figma-file-co359499e9b60a56d617d5307) course project 
-  - Inspired by busy shoppers who are in need of a quick way to organize their 
-market needs.
+  - Inspired by the "look" of the original AirBnB app that allows customers to book stays at various lodging destinations.
